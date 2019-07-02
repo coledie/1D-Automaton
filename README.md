@@ -13,7 +13,7 @@ Below is links to thorough descriptions of the machines, including how the rule/
 
 [Cellular Automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
 
-[Rule 30](img\R30.PNG)
-[Rule 110](img\R110.PNG)
-[Code 219](img\C219.PNG)
-[Code 1599](img\C1599.PNG)
+![Rule 30](img\R30.PNG)
+![Rule 110](img\R110.PNG)
+![Code 219](img\C219.PNG)
+![Code 1599](img\C1599.PNG)
